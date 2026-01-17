@@ -6,7 +6,7 @@ A full-stack web application for managing products with **CRUD**, **Search**, **
 🌍 Live Demo
 
 Frontend (GitHub Pages):
-👉 https://srushtidumbhare7-ad.github.io/product-catalog-management/
+👉https://srushtidumbhare7-ad.github.io/product-catalog-management/
 
 Backend (Render Deployment):
 👉 https://product-catalog-management.onrender.com
