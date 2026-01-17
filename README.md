@@ -115,70 +115,35 @@ frontend/index.html
 * User authentication (JWT)
 
 ---
-
 ## 📸 Screenshots
 
 ### 🏠 Dashboard (Main View)
-
-Displays list of products with category, price, description, actions, and pagination.
-
-```
-<img src="screenshots/dashboard(2).png" width="750" />
-```
+<img src="screenshots/dashboard(2).png" width="750"/>
 
 ---
 
 ### ✏ Edit Product Modal
-
-Shows form fields for editing product details and update UX.
-
-```
-<img src="screenshots/edit.png" width="750" />
-```
+<img src="screenshots/edit.png" width="750"/>
 
 ---
 
 ### ❌ Delete Confirmation Modal
-
-Confirmation dialog preventing accidental deletions (UX improvement).
-
-```
-<img src="screenshots/delete.png" width="750" />
-```
+<img src="screenshots/delete.png" width="750"/>
 
 ---
 
-
 ### 🔍 Search & Filter
-
-Shows filtered results using name search and dynamic category filters.
-
-```
-<img src="screenshots/search.png" width="750" />
-```
+<img src="screenshots/search.png" width="750"/>
 
 ---
 
 ### 🖥 Backend Console
-
-Backend server running with MongoDB connection.
-
-```
-<img src="screenshots/backend.png" width="750" />
-```
+<img src="screenshots/backend.png" width="750"/>
 
 ---
 
-### 🗄 MongoDB View (Optional)
-
-Database representation via MongoDB Atlas/Compass.
-
-```
-<img src="screenshots/mongodbView.png" width="750" />
-```
-
-
----
+### 🗄 MongoDB View
+<img src="screenshots/mongoDBDataViewing.png" width="750"/>
 
 ## 📄 Status
 
