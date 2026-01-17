@@ -3,6 +3,18 @@
 A full-stack web application for managing products with **CRUD**, **Search**, **Filter**, **Sort**, and **Pagination**, built using **Node.js**, **Express**, **MongoDB**, and **Bootstrap**.
 
 ---
+🌍 Live Demo
+
+Frontend (GitHub Pages):
+👉 https://srushtidumbhare7-ad.github.io/product-catalog-management/
+
+Backend (Render Deployment):
+👉 https://product-catalog-management.onrender.com
+
+📂 Repository
+
+GitHub Repo:
+👉 https://github.com/srushtidumbhare7-ad/product-catalog-management
 
 ## 🚀 Features
 
