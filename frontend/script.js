@@ -1,4 +1,5 @@
-const BASE_URL = "http://localhost:3000/products";
+const BASE_URL = "https://product-catalog-management.onrender.com/products";
+
 
 // Toast
 function showToast(msg, type="success") {
