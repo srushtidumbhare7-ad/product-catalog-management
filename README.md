@@ -123,7 +123,7 @@ frontend/index.html
 Displays list of products with category, price, description, actions, and pagination.
 
 ```
-<img src="screenshots/dashboard.png" width="750" />
+<img src="screenshots/dashboard(2).png" width="750" />
 ```
 
 ---
@@ -133,7 +133,7 @@ Displays list of products with category, price, description, actions, and pagina
 Shows form fields for editing product details and update UX.
 
 ```
-<img src="screenshots/edit-modal.png" width="750" />
+<img src="screenshots/edit.png" width="750" />
 ```
 
 ---
@@ -143,27 +143,18 @@ Shows form fields for editing product details and update UX.
 Confirmation dialog preventing accidental deletions (UX improvement).
 
 ```
-<img src="screenshots/delete-modal.png" width="750" />
+<img src="screenshots/delete.png" width="750" />
 ```
 
 ---
 
-### 📄 Pagination
-
-Demonstrates paginated product listing for better navigation.
-
-```
-<img src="screenshots/pagination.png" width="750" />
-```
-
----
 
 ### 🔍 Search & Filter
 
 Shows filtered results using name search and dynamic category filters.
 
 ```
-<img src="screenshots/search-filter.png" width="750" />
+<img src="screenshots/search.png" width="750" />
 ```
 
 ---
@@ -173,7 +164,7 @@ Shows filtered results using name search and dynamic category filters.
 Backend server running with MongoDB connection.
 
 ```
-<img src="screenshots/backend-console.png" width="750" />
+<img src="screenshots/backend.png" width="750" />
 ```
 
 ---
@@ -183,7 +174,7 @@ Backend server running with MongoDB connection.
 Database representation via MongoDB Atlas/Compass.
 
 ```
-<img src="screenshots/mongodb-view.png" width="750" />
+<img src="screenshots/mongodbView.png" width="750" />
 ```
 
 
