@@ -143,7 +143,7 @@ frontend/index.html
 ---
 
 ### 🗄 MongoDB View
-<img src="screenshots/mongoDBDataViewing.png" width="750"/>
+<img src="screenshots/mongodbView.png" width="750"/>
 
 ## 📄 Status
 
